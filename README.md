@@ -4,7 +4,7 @@
 
 # On reading
 
-프로덕트 오너
+[프로덕트오너](./창업/프로덕트오너/ProductOwnerIndex.md)
 
 # Have to Read
 ## 창업 관련
